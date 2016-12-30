@@ -1,0 +1,19 @@
+МЕНЮ-MENU
+Создать файл-Create File
+Добавить поток-Add thread
+Вывести содержимое файла-Display the contents of the file
+Выбрать язык-Сhoose language 
+Выход-Exit
+Выбрать файл-Choose File
+
+Выбрать поток-Choose thread
+Добавить в текущий поток фразы с переводом-Add to the current thread sentences with translate
+Введите имя файла-Enter the file name
+Введите имя потока-Enter the name of the stream
+Вводите фразы с переводом-Enter phrases with translations
+Для завершения введите 'stop'-Enter 'stop' for finish
+Введите имя файла, содержимое которого следует вывести-Enter the name of the file whose contents should be displayed
+Выбранный файл-Selected file
+Выбранный поток-Selected thread
+Назад-Back
+Удалить поток-Delete thread

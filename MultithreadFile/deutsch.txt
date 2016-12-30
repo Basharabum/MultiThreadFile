@@ -1,0 +1,19 @@
+МЕНЮ-MENU
+Создать файл-Neue Datei
+Добавить поток-Feed hinzufugen
+Вывести содержимое файла-Zeigen Sie den Inhalt der Datei
+Выбрать язык-Sprache wahlen
+Выход-Ausfahrt
+Выбрать файл-Wahlen Sie die Datei
+Выбрать поток-Wahlen Sie einen Stream
+Добавить в текущий поток фразы с переводом-In den aktuellen Thread Satze ubersetzt
+Введите имя файла-Geben Sie den Dateinamen
+Введите имя файла, к которому следует добавить поток-Geben Sie einen Dateinamen, auf die in den Stream hinzugefugt werden soll
+Введите имя потока-Geben Sie den Namen des Streams
+Вводите фразы с переводом-Geben Sie Satze mit Ubersetzungen
+Для завершения введите 'stop'-Zum Schluss geben Sie 'stop'
+Введите имя файла, содержимое которого следует вывести-Geben Sie den Namen der Datei, deren Inhalt angezeigt werden soll
+Назад-Zuruck
+Выбранный файл-Die ausgewahlte Datei
+Выбранный поток-Ausgewahlte thread
+Удалить поток-Loschen thread
